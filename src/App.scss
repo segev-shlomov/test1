@@ -1,0 +1,60 @@
+.contentClass{
+  width: 100%;
+  margin-top: 5rem;
+  float: left;
+  padding-left: 7rem;
+  padding-right: 16rem;
+}
+
+.tag-class{
+  margin-top: 10px;
+}
+
+.cds--modal-header__heading{
+color: green;
+}
+/* animate new box */
+.cds--tab-content{
+  padding: 0!important;
+}
+
+
+
+.cds--tabs--contained{
+  background-color: var(--cds-layer);
+}
+
+.task-welcome-box{
+  position: relative;
+  margin-bottom: 5rem;
+}
+
+.task-instructions-box{
+  position: absolute;
+  right: 7rem;
+  top: 0;
+  z-index: 9999999;
+}
+.cds--popover-container{
+  align-self: center;
+}
+.instructions-text{
+  color: #006699;
+  font-size: 0.9rem;
+}
+.bold-text{
+  font-weight: bold;
+}
+.cds--toggletip-content,.cds--popover-content{
+  max-width: 28rem;
+}
+.center-text{
+  text-align: center;
+}
+
+.centeredForm{
+  display: flex;
+  justify-content: center;
+  // padding-left: 25rem;
+
+}
